@@ -1,1 +1,1 @@
-clear
+ping google.com
