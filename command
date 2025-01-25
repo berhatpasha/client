@@ -1,1 +1,1 @@
-ping google.com
+echo osmanBABAPİRO 123
